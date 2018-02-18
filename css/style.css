@@ -1,0 +1,22 @@
+
+.wrapper {
+	display: inline-block;
+	margin: 0 auto;
+}
+.dealer_hand {
+	display: inline-block;
+	border: 1px solid gray;
+}
+
+.clear {
+	clear: both;
+}
+
+.my_hand {
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.card_img {
+	transition: background-image 1s ease-in-out;
+}
